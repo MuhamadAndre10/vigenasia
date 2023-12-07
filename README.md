@@ -1,16 +1,19 @@
-# vigenasia
+# Vigenasia
 
-A new Flutter project.
+vigenasia aplikasi identity management user sederhana yang dibuat dengan menggunakan state management bloc dan koneksi dengan back-end
+
+> Tugas Kampus
+
+## feature yang ada
+- login
+- register
+
+## yang di pelajari
+- koneksi dengan back-end 
+- layouting ui flutter
+- design architecture
+- [bloc](https://pub.dev/packages/bloc) state management
+- routing dengan [go-route](https://pub.dev/packages/go_router)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
