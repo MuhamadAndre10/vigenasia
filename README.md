@@ -1,6 +1,8 @@
 # Vigenasia
 
-!(login screen)[https://github.com/MuhamadAndre10/vigenasia/asset/img/login_ss.png]
+![login screen](https://github.com/MuhamadAndre10/vigenasia/blob/main/asset/img/login%20ss.png?raw=true)
+![register screen](https://github.com/MuhamadAndre10/vigenasia/blob/main/asset/img/register_ss.png?raw=true)
+![home screen](https://github.com/MuhamadAndre10/vigenasia/blob/main/asset/img/home_ss.png?raw=true)
 
 vigenasia aplikasi identity management user sederhana yang dibuat dengan menggunakan state management bloc dan koneksi dengan back-end
 
