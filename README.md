@@ -3,7 +3,7 @@
 ![vigenasi screen](https://github.com/MuhamadAndre10/vigenasia/blob/main/asset/img/vigenasia.png?raw=true)
 
 
-vigenasia aplikasi identity management user sederhana yang dibuat dengan menggunakan state management bloc dan koneksi dengan back-end
+vigenasia aplikasi identity management user sederhana yang dibuat dengan menggunakan state management bloc dan koneksi dengan [back-end](https://github.com/faatikhriziq/vigenesia-backend)
 
 > Tugas Kampus
 
