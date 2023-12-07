@@ -4,11 +4,11 @@ vigenasia aplikasi identity management user sederhana yang dibuat dengan menggun
 
 > Tugas Kampus
 
-## feature yang ada
+## Feature yang ada : 
 - login
 - register
 
-## yang di pelajari
+## Yang di pelajari :
 - koneksi dengan back-end 
 - layouting ui flutter
 - design architecture
