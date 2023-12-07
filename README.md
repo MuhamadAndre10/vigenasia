@@ -10,6 +10,7 @@ vigenasia aplikasi identity management user sederhana yang dibuat dengan menggun
 ## Feature yang ada : 
 - login
 - register
+- crud
 
 ## Yang di pelajari :
 - koneksi dengan back-end 
