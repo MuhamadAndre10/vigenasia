@@ -5,7 +5,7 @@
 
 vigenasia aplikasi identity management user sederhana yang dibuat dengan menggunakan state management bloc dan koneksi dengan [back-end](https://github.com/faatikhriziq/vigenesia-backend)
 
-> Tugas Kampus
+> Taks Kampus, just for learning.
 
 ## Feature yang ada : 
 - login
